@@ -43,3 +43,17 @@ These allow users to drill down into specific market segments or timeframes.
 - Displays monthly trends over time.
 - Blue bars for sales and red line for profit.
 - Identifies seasonal trends and peak sales periods.
+
+## How to use?:-
+- 1.Open the dashboard in Tableau.
+- 2.Use the filters to explore different segments (region, category, timeframe).
+- 3.Analyze KPIs and visual charts for trends and performance breakdown.
+- 4.Follow the story tabs to understand key findings and business implications.
+
+## Business Impact
+This dashboard enables executives and retail analysts to:
+
+- Track and compare performance by city and region.
+- Identify product categories with high/low profitability.
+- Pinpoint seasonal trends and high-performing months.
+- Make data-driven decisions regarding inventory, promotions, and regional strategies.
